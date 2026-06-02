@@ -43,7 +43,7 @@
   <!--copyright-->
   <div class="border-t text-sm border-green-600 mt-8 pt-4">
     <p class="text-center text-white">© 2026 visit Rwanda. All rights reserved</p>
-    <p class="text-center text-white"> AKOGUTETA H.P Merylise</p>
+    <p class="text-center text-white">IKIZABERA Moise</p>
   </div>
   </footer>
 </template>
